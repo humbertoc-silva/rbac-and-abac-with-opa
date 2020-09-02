@@ -1,0 +1,2 @@
+#!/bin/bash
+opa eval -d rbac.rego -d data.json -i input.json "data.rbac.allow"

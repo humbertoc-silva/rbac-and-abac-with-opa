@@ -1,0 +1,17 @@
+{
+  "roles": {
+    "admin": {
+      "path": "/customers",
+      "methods": [
+        "POST",
+        "GET"
+      ]
+    },
+    "user": {
+      "path": "/customers",
+      "methods": [
+        "GET"
+      ]
+    }
+  }
+}

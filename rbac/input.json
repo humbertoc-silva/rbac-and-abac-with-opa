@@ -1,0 +1,13 @@
+{
+  "attributes": {
+    "request": {
+      "http": {
+        "method": "POST",
+        "path": "/customers",
+        "headers": {
+          "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyLCJyb2xlIjoiYWRtaW4ifQ.JZike9_-TeQiSdZsF2kTd9SiPe-gChOIIDg23gki18U"
+        }
+      }
+    }
+  }
+}

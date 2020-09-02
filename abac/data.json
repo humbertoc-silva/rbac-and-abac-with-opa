@@ -1,0 +1,36 @@
+{
+  "attrs": {
+    "admin": {
+      "path": "/customers",
+      "methods": [
+        "POST",
+        "GET"
+      ],
+      "week_day": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "hour": {
+        "from": 0,
+        "to": 23
+      }
+    },
+    "user": {
+      "path": "/customers",
+      "methods": [
+        "GET"
+      ],
+      "week_day": [
+        "Monday",
+        "Wednesday"
+      ],
+      "hour": {
+        "from": 9,
+        "to": 18
+      }
+    }
+  }
+}
